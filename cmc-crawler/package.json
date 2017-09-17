@@ -1,7 +1,7 @@
 {
-  "name": "historical-data",
+  "name": "cmc-crawler",
   "version": "1.0.0",
-  "description": "",
+  "description": "Coin Marker Cap web crawler",
   "main": "index.js",
   "dependencies": {
     "nightmare": "^2.10.0",
@@ -14,6 +14,6 @@
   "engines": {
     "node": ">=8.0"
   },
-  "author": "Diego Balduini <dbalduini@gmail.com>",
-  "license": "ISC"
+  "author": "Diego Balduini",
+  "license": "Apache-2.0"
 }
