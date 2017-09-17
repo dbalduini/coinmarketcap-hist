@@ -1,0 +1,16 @@
+#|Name|Symbol|Market Cap|Price|Available Supply|Volume (24h)|% 1h|% 24h|% 7d|Not Mineable|Significantly Premined
+1|Bitcoin|BTC|$ 1,477,901,080|$ 131.96|11,199,394|Low Vol|0.14 %|-0.13 %|7.20 %|False|False
+2|Litecoin|LTC|$ 56,618,935|$ 3.15|17,971,825|Low Vol|0.35 %|0.05 %|-5.74 %|False|False
+3|Namecoin|NMC|$ 5,306,810|$ 0.941349|5,637,450|Low Vol|0.09 %|0.03 %|13.68 %|False|False
+4|Peercoin|PPC|$ 3,950,966|$ 0.207422|19,047,961|Low Vol|-0.17 %|-4.69 %|8.59 %|False|False
+5|Novacoin|NVC|$ 1,198,172|$ 4.22|284,187|Low Vol|0.21 %|2.35 %|15.35 %|False|False
+6|Terracoin|TRC|$ 919,126|$ 0.342083|2,686,848|Low Vol|0.03 %|-5.04 %|-8.03 %|False|False
+7|Devcoin|DVC|$ 900,369|$ 0.000198|4,538,778,116|Low Vol|-0.09 %|-4.54 %|3.68 %|False|False
+8|Freicoin|FRC|$ 669,208|$ 0.031865|21,001,455|Low Vol|0.44 %|-7.44 %|0.09 %|False|False
+9|Feathercoin|FTC|$ 658,825|$ 0.099509|6,620,750|Low Vol|-0.60 %|-10.67 %|-21.70 %|False|False
+10|CHNCoin|CNC|$ 367,573|$ 0.071988|5,106,021|Low Vol|-0.40 %|-10.64 %|-24.85 %|False|False
+11|Ixcoin|IXC|$ 124,477|$ 0.009837|12,653,618|Low Vol|0.19 %|-0.52 %|-3.01 %|True|False
+12|Mincoin|MNC|$ 123,252|$ 0.115277|1,069,181|Low Vol|1.81 %|36.96 %|-42.97 %|False|False
+13|BBQCoin|BQC|$ 120,694|$ 0.006785|17,788,853|Low Vol|0.03 %|-7.18 %|-8.66 %|False|False
+14|WorldCoin|WDC|$ 63,470|$ 0.027640|2,296,283|Low Vol|0.03 %|1.25 %|?|False|False
+15|BitBar|BTB|$ 58,763|$ 18.92|3,106|Low Vol|1.40 %|-27.39 %|-57.41 %|False|False

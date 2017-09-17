@@ -1,0 +1,60 @@
+#|Name|Symbol|Market Cap|Price|Available Supply|Volume (24h)|% 1h|% 24h|% 7d|Not Mineable|Significantly Premined
+1|Bitcoin|BTC|$ 7,525,576,936|$ 618.97|12,158,157|Low Vol|0.59 %|-1.60 %|-27.15 %|False|False
+2|Litecoin|LTC|$ 413,025,955|$ 17.09|24,161,168|Low Vol|0.48 %|-4.77 %|-41.84 %|False|False
+3|Ripple|XRP|$ 173,322,796|$ 0.022170|7,817,889,792|Low Vol|0.54 %|1.81 %|-26.32 %|True|False
+4|Peercoin|PPC|$ 65,354,550|$ 3.12|20,946,998|Low Vol|0.45 %|-3.98 %|-25.03 %|False|False
+5|Namecoin|NMC|$ 31,195,741|$ 4.13|7,552,748|Low Vol|0.56 %|-2.50 %|-28.14 %|False|False
+6|Quark|QRK|$ 22,242,569|$ 0.090172|246,668,275|Low Vol|0.76 %|-2.98 %|-46.80 %|False|False
+7|Nxt|NXT|$ 19,682,497|$ 0.019683|999,998,016|Low Vol|1.82 %|9.64 %|283.91 %|True|False
+8|BitShares PTS|PTS|$ 14,698,891|$ 12.45|1,180,410|Low Vol|0.04 %|-4.43 %|-34.83 %|True|False
+9|WorldCoin|WDC|$ 14,523,063|$ 0.398424|36,451,313|Low Vol|0.71 %|-13.08 %|-34.34 %|False|False
+10|Megacoin|MEC|$ 11,171,001|$ 0.522405|21,383,815|Low Vol|0.52 %|-9.76 %|-37.98 %|False|False
+11|Primecoin|XPM|$ 7,621,891|$ 2.07|3,681,032|Low Vol|0.51 %|-7.44 %|-44.84 %|False|False
+12|Feathercoin|FTC|$ 7,051,044|$ 0.260192|27,099,417|Low Vol|0.71 %|-2.35 %|-37.25 %|False|False
+13|Novacoin|NVC|$ 6,158,532|$ 11.66|528,375|Low Vol|0.57 %|-4.48 %|-31.40 %|False|False
+14|Zetacoin|ZET|$ 5,505,581|$ 0.034626|159,001,304|Low Vol|0.38 %|1.21 %|-45.96 %|False|False
+15|Dogecoin|DOGE|$ 4,751,840|$ 0.000422|11,248,307,556|Low Vol|0.69 %|-24.18 %|?|False|False
+16|Devcoin|DVC|$ 3,327,120|$ 0.000561|5,934,709,625|Low Vol|1.41 %|-10.60 %|-54.76 %|False|False
+17|Infinitecoin|IFC|$ 3,161,999|$ 0.000035|89,075,044,119|Low Vol|0.53 %|-2.45 %|-34.23 %|False|False
+18|Digitalcoin|DGC|$ 3,025,363|$ 0.260063|11,633,193|Low Vol|0.82 %|-8.07 %|-58.08 %|False|False
+19|Freicoin|FRC|$ 2,668,183|$ 0.076914|34,690,397|Low Vol|0.52 %|-1.40 %|-47.16 %|False|False
+20|Copperlark|CLR|$ 2,354,990|$ 0.440651|5,344,349|Low Vol|0.50 %|0.41 %|-35.79 %|False|True
+21|Anoncoin|ANC|$ 2,259,838|$ 3.74|604,528|Low Vol|0.67 %|-9.77 %|-37.09 %|False|False
+22|Ixcoin|IXC|$ 1,966,689|$ 0.114248|17,214,233|Low Vol|0.62 %|-1.91 %|-39.00 %|True|False
+23|Terracoin|TRC|$ 1,844,467|$ 0.392433|4,700,082|Low Vol|0.42 %|-4.34 %|-36.21 %|False|False
+24|Crypto Bullion|CBX|$ 1,517,064|$ 1.64|924,140|Low Vol|0.28 %|-11.79 %|-52.15 %|False|False
+25|BBQCoin|BQC|$ 1,375,957|$ 0.047355|29,056,324|Low Vol|1.47 %|-1.91 %|-49.67 %|False|False
+26|GoldCoin|GLD|$ 1,321,190|$ 0.045559|28,999,505|Low Vol|0.51 %|-11.32 %|-54.44 %|False|False
+27|Deutsche eMark|DEM|$ 1,115,066|$ 0.434065|2,568,894|Low Vol|0.84 %|-15.20 %|154.05 %|False|False
+28|Sexcoin|SXC|$ 957,440|$ 0.020511|46,678,819|Low Vol|-0.30 %|-5.39 %|-55.03 %|False|False
+29|Tickets|TIX|$ 894,029|$ 0.000013|66,876,280,832|Low Vol|0.32 %|-2.82 %|-36.62 %|False|False
+30|NetCoin|NET|$ 839,093|$ 0.004573|183,504,437|Low Vol|-0.08 %|-8.95 %|?|False|False
+31|Datacoin|DTC|$ 732,319|$ 0.489031|1,497,491|Low Vol|0.09 %|-1.33 %|-47.54 %|False|False
+32|Fastcoin|FST|$ 719,799|$ 0.015492|46,463,637|Low Vol|0.54 %|-12.65 %|-59.24 %|False|False
+33|Yacoin|YAC|$ 691,900|$ 0.052824|13,098,129|Low Vol|0.47 %|-3.52 %|-52.16 %|False|False
+34|Unobtanium|UNO|$ 678,992|$ 6.41|105,887|Low Vol|0.10 %|?|?|False|False
+35|Tigercoin|TGC|$ 649,265|$ 0.030312|21,419,102|Low Vol|1.17 %|?|?|False|False
+36|StableCoin|SBC|$ 615,646|$ 0.068741|8,956,071|Low Vol|0.66 %|-4.10 %|-63.88 %|False|False
+37|GrandCoin|GDC|$ 444,652|$ 0.001716|259,106,347|Low Vol|1.86 %|3.29 %|?|False|False
+38|Mincoin|MNC|$ 423,486|$ 0.287721|1,471,863|Low Vol|0.95 %|1.58 %|-53.51 %|False|False
+39|TagCoin|TAG|$ 413,007|$ 0.776309|532,014|Low Vol|-0.70 %|7.65 %|-40.10 %|False|False
+40|FlorinCoin|FLO|$ 408,656|$ 0.011939|34,229,614|Low Vol|0.69 %|-0.52 %|-65.42 %|False|False
+41|GlobalCoin|GLC|$ 355,250|$ 0.014083|25,225,122|Low Vol|0.52 %|-3.55 %|-61.82 %|False|False
+42|BetaCoin|BET|$ 340,933|$ 0.080474|4,236,545|Low Vol|-1.82 %|-7.10 %|27.38 %|False|False
+43|I0Coin|I0C|$ 333,995|$ 0.016669|20,036,401|Low Vol|1.95 %|-14.20 %|-61.95 %|False|False
+44|BitBar|BTB|$ 326,539|$ 37.93|8,608|Low Vol|0.42 %|-6.52 %|-44.28 %|False|False
+45|Diamond|DMD|$ 297,093|$ 1.57|188,753|Low Vol|1.61 %|7.14 %|?|False|False
+46|Philosopher ...|PHS|$ 264,673|$ 0.174646|1,515,483|Low Vol|0.25 %|6.96 %|?|True|False
+47|Orbitcoin|ORB|$ 263,112|$ 0.244068|1,078,025|Low Vol|1.09 %|?|?|False|False
+48|CasinoCoin|CSC|$ 234,868|$ 0.039761|5,906,924|Low Vol|1.41 %|49.35 %|-41.25 %|False|False
+49|Argentum|ARG|$ 210,549|$ 0.402743|522,786|Low Vol|-0.54 %|-6.59 %|-47.90 %|False|False
+50|Bytecoin|BTE|$ 195,199|$ 0.116589|1,674,242|Low Vol|0.68 %|8.28 %|-38.46 %|False|False
+51|Franko|FRK|$ 182,566|$ 2.15|84,718|Low Vol|0.45 %|-11.67 %|-63.38 %|False|False
+52|Luckycoin|LKY|$ 181,994|$ 0.018847|9,656,407|Low Vol|0.39 %|-4.38 %|-71.16 %|False|False
+53|Phoenixcoin|PXC|$ 168,002|$ 0.022804|7,367,195|Low Vol|0.57 %|-1.71 %|-65.03 %|False|False
+54|HoboNickels|HBN|$ 137,156|$ 0.062853|2,182,163|Low Vol|1.69 %|-6.14 %|?|False|False
+55|Joulecoin|XJO|$ 127,157|$ 0.048129|2,641,979|Low Vol|-2.46 %|?|?|False|False
+56|EZCoin|EZC|$ 115,078|$ 0.009406|12,234,701|Low Vol|0.41 %|3.23 %|-60.66 %|False|False
+57|Noirbits|NRB|$ 114,395|$ 0.059250|1,930,715|Low Vol|1.65 %|-16.36 %|-66.76 %|False|False
+58|Junkcoin|JKC|$ 114,234|$ 0.012568|9,089,463|Low Vol|0.02 %|0.82 %|-26.88 %|False|False
+59|CraftCoin|CRC|$ 79,662|$ 0.326601|243,913|Low Vol|-0.94 %|-16.44 %|-70.84 %|False|False

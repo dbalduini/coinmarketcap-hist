@@ -1,0 +1,47 @@
+#|Name|Symbol|Market Cap|Price|Available Supply|Volume (24h)|% 1h|% 24h|% 7d|Not Mineable|Significantly Premined
+1|Bitcoin|BTC|$ 1,305,705,142|$ 112.86|11,569,438|Low Vol|0.03 %|3.57 %|8.91 %|False|False
+2|Litecoin|LTC|$ 57,198,795|$ 2.80|20,423,643|Low Vol|0.01 %|3.27 %|7.78 %|False|False
+3|Ripple|XRP|$ 45,354,507|$ 0.005801|7,817,889,792|Low Vol|0.48 %|46.25 %|33.81 %|True|False
+4|Namecoin|NMC|$ 4,297,435|$ 0.678376|6,334,883|Low Vol|0.04 %|5.27 %|4.24 %|False|False
+5|Peercoin|PPC|$ 3,328,246|$ 0.166285|20,015,251|Low Vol|-0.07 %|0.41 %|8.51 %|False|False
+6|Feathercoin|FTC|$ 2,021,828|$ 0.147200|13,735,272|Low Vol|-0.01 %|-3.18 %|-1.97 %|False|False
+7|Novacoin|NVC|$ 1,885,990|$ 5.27|357,767|Low Vol|-0.03 %|1.96 %|3.21 %|False|False
+8|Primecoin|XPM|$ 1,416,038|$ 0.867835|1,631,691|Low Vol|-0.37 %|-0.05 %|0.52 %|False|False
+9|Terracoin|TRC|$ 695,007|$ 0.191002|3,638,743|Low Vol|-0.23 %|1.23 %|5.26 %|False|False
+10|Infinitecoin|IFC|$ 305,013|$ 0.000004|72,849,090,402|Low Vol|0.80 %|13.19 %|373.80 %|False|False
+11|Devcoin|DVC|$ 283,586|$ 0.000056|5,097,704,089|Low Vol|-0.14 %|2.12 %|-1.14 %|False|False
+12|Digitalcoin|DGC|$ 211,567|$ 0.029572|7,154,395|Low Vol|0.27 %|-2.13 %|-4.93 %|False|False
+13|GoldCoin|GLD|$ 179,018|$ 0.006924|25,855,148|Low Vol|0.99 %|31.16 %|208.51 %|False|False
+14|Freicoin|FRC|$ 168,896|$ 0.006911|24,437,113|Low Vol|0.00 %|2.84 %|-2.30 %|False|False
+15|WorldCoin|WDC|$ 135,284|$ 0.008300|16,298,852|Low Vol|0.36 %|8.62 %|2.50 %|False|False
+16|Yacoin|YAC|$ 127,133|$ 0.022476|5,656,384|Low Vol|0.14 %|6.49 %|0.88 %|False|False
+17|Crypto Bullion|CBX|$ 105,865|$ 0.167848|630,720|Low Vol|-0.41 %|3.19 %|34.41 %|False|False
+18|Mincoin|MNC|$ 98,298|$ 0.077937|1,261,252|Low Vol|-0.57 %|1.09 %|1.48 %|False|False
+19|Megacoin|MEC|$ 91,880|$ 0.005822|15,780,250|Low Vol|0.10 %|-3.38 %|2.20 %|False|False
+20|Ixcoin|IXC|$ 85,262|$ 0.005759|14,804,717|Low Vol|0.02 %|3.49 %|2.79 %|True|False
+21|Phoenixcoin|PXC|$ 61,749|$ 0.017780|3,472,900|Low Vol|0.12 %|-2.61 %|0.64 %|False|False
+22|BBQCoin|BQC|$ 54,479|$ 0.002410|22,609,532|Low Vol|0.62 %|7.91 %|-6.46 %|False|False
+23|Fastcoin|FST|$ 42,075|$ 0.002265|18,578,135|Low Vol|-0.66 %|1.40 %|-4.13 %|False|False
+24|CHNCoin|CNC|$ 35,596|$ 0.006771|5,256,730|Low Vol|0.03 %|3.72 %|-3.90 %|False|False
+25|Luckycoin|LKY|$ 27,035|$ 0.004489|6,022,325|Low Vol|-0.23 %|0.42 %|5.27 %|False|False
+26|Anoncoin|ANC|$ 26,625|$ 0.065458|406,749|Low Vol|0.03 %|-4.12 %|-3.85 %|False|False
+27|Franko|FRK|$ 22,656|$ 0.486554|46,565|Low Vol|0.03 %|-3.98 %|29.76 %|False|False
+28|Bytecoin|BTE|$ 16,260|$ 0.017489|929,708|Low Vol|0.05 %|3.71 %|1.72 %|False|False
+29|XenCoin|XNC|$ 12,763|$ 0.000078|163,909,828|Low Vol|-1.24 %|3.81 %|152.78 %|False|False
+30|Argentum|ARG|$ 11,958|$ 0.030589|390,924|Low Vol|0.09 %|9.12 %|-16.67 %|False|False
+31|BitBar|BTB|$ 11,661|$ 2.28|5,112|Low Vol|0.03 %|3.56 %|-26.64 %|False|False
+32|Krugercoin|KGC|$ 10,618|$ 0.001071|9,914,704|Low Vol|0.16 %|2.83 %|0.54 %|False|False
+33|AlphaCoin|ALF|$ 9,464|$ 0.000856|11,061,841|Low Vol|0.59 %|6.48 %|-5.78 %|False|False
+34|Memecoin|MEM|$ 8,405|$ 0.000307|27,375,223|Low Vol|1.60 %|-0.58 %|43.75 %|False|False
+35|CasinoCoin|CSC|$ 7,772|$ 0.003501|2,220,080|Low Vol|-1.35 %|12.75 %|-12.54 %|False|False
+36|GlobalCoin|GLC|$ 7,365|$ 0.000514|14,343,000|Low Vol|0.03 %|-18.84 %|24.40 %|False|False
+37|CraftCoin|CRC|$ 6,400|$ 0.064576|99,113|Low Vol|-1.19 %|26.57 %|-37.64 %|False|False
+38|Nibble|NBL|$ 5,566|$ 0.005847|951,951|Low Vol|-0.91 %|-36.16 %|14.93 %|False|False
+39|NanoToken|NAN|$ 5,506|$ 0.007435|740,462|Low Vol|1.14 %|8.29 %|?|False|False
+40|Emerald Crypto|EMD|$ 4,895|$ 0.003028|1,616,548|Low Vol|-1.53 %|39.19 %|-33.67 %|False|False
+41|Spots|SPT|$ 4,691|$ 0.007371|636,490|Low Vol|-0.70 %|12.55 %|-52.12 %|False|False
+42|StableCoin|SBC|$ 4,614|$ 0.001036|4,452,654|Low Vol|-0.18 %|4.15 %|-8.59 %|False|False
+43|EZCoin|EZC|$ 4,362|$ 0.000637|6,846,045|Low Vol|2.20 %|-15.33 %|194.70 %|False|False
+44|Doubloons|DBL|$ 4,072|$ 0.007059|576,778|Low Vol|-0.40 %|44.64 %|47.63 %|False|False
+45|Hypercoin|HYC|$ 3,465|$ 0.006765|512,150|Low Vol|1.62 %|?|33.67 %|False|False
+46|Elacoin|ELC|$ 2,436|$ 0.107988|22,562|Low Vol|-7.34 %|80.18 %|18.33 %|False|False
