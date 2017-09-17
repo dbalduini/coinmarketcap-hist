@@ -1,0 +1,19 @@
+{
+  "name": "historical-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nightmare": "^2.10.0",
+    "promise-limit": "^2.5.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "debug": "DEBUG=nightmare:actions* node index.js"
+  },
+  "engines": {
+    "node": ">=8.0"
+  },
+  "author": "Diego Balduini <dbalduini@gmail.com>",
+  "license": "ISC"
+}
